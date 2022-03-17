@@ -21,7 +21,7 @@ console.log(IndexAda, IndexMekan);
 let adaHigherIndex = IndexAda > IndexMekan;
 let MekanHigherIndex = IndexMekan > IndexAda;
 
-console.log("Adanın kilo indeksi Kivanç'ın kilo Indeksinden daha büyük : " + adaHigherIndex);
+console.log("Adanın kilo indeksi Mekan'ın kilo Indeksinden daha büyük : " + adaHigherIndex);
 
 console.log("Kıvanç'ın kilo indeksi Ada'nın kilo indeksinden daha büyük: " + MekanHigherIndex);
 
